@@ -18,7 +18,7 @@ namespace _04_10_2020
 
         static void Main(string[] args)
         {
-            //ÇALIŞMA SORULARI
+            //ÇALIŞMA SORULARI...
 
             // Soru-1:  Bir dairenin alanını ve çevresini hesaplayan programı yazınız (methods)
 
